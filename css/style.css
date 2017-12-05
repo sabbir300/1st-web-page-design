@@ -1,0 +1,130 @@
+/* Global CSS */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+li{
+	list-style: none;
+	display:inline;
+	padding: 15px;
+}
+img{
+	width: 100%;
+	display: block;
+}
+a {
+    text-decoration: none;
+    color: #f12635;
+}
+.container{
+	margin: 0 auto;
+	width:1000px;
+	font-family: 'Open Sans', sans-serif;
+}
+/*Navigation section CSS*/
+.header {
+    background-color: #e9e7e7;
+    overflow: hidden;
+}
+.logo{
+
+}
+.logo img {
+    float: left;
+    width: 100px;
+    padding: 10px;
+}
+.menu {
+    margin-top: 40px;
+    float: right;
+}
+.menu ul{
+
+
+}
+.menu li{
+	font-size: 16px;
+	color: red;
+	padding: 30px 20px;
+	transition: 1s all ease;
+}
+.menu a:hover{
+	background:#f12635;
+	color: white;
+}
+/* Main Conten section CSS */
+.main-conten{
+
+}
+.conten {
+    padding: 60px 30px;
+
+}
+.conten img {
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+}
+.conten h2{
+
+}
+.conten p{
+
+}
+.fetaure-section{
+	overflow: hidden;
+
+}
+.fetaure {
+	width:230px;
+	float: left;
+	padding: 10px;
+	text-align: center;  
+}
+.fetaure img{
+
+}
+.fetaure h3{
+	font-size: 16px;
+
+}
+.fetaure p{
+	font-size: 14px;
+
+}
+/* Footer section CSS */
+.footer {
+	margin-top: 25px;
+	padding: 15px;
+	background-color: #e9e7e7;
+	overflow: hidden;
+	font-size: 12px;
+}
+.Copyright{
+	width:50%;
+	float: left;
+}
+.Copyright p{
+
+}
+.social{
+	width:50%;
+	float: left;
+	text-align: right;
+}
+.social ul{
+
+
+}
+.social li{
+
+
+
+}
+.social a{
+
+
+}
